@@ -1,0 +1,42 @@
+.container .row{
+    width: 400px;
+    height: 560px;
+    margin-left: 40%;
+    margin-top: 5% ;
+    box-shadow: rgba(54, 54, 54, 0.54) 5px 5px 13px 5px;
+    background-color: aliceblue;
+}
+
+.container .row .header img{
+    width:400px ;
+    margin-bottom: 25px;
+}
+
+.container .row .body .opacity{
+    opacity: 0.6;
+}
+
+.container .row .body , .footer{
+    margin-left: 35px ;
+    width: 300px ;
+    
+}
+
+
+
+.container .row .body .comments{
+    margin-left: 30px;
+}
+
+.container .row .body .title{
+    opacity: 0.8 ;
+}
+
+.container .row .body .content{
+    font-size: 18px;
+    opacity: 0.6;
+}
+
+.container .row .footer{
+    opacity: 0.6;
+}
